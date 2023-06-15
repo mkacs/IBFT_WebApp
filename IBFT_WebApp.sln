@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBFT_WebApp", "IBFT_WebApp.csproj", "{6DDDB37D-C8F8-44C9-89F4-ABE37CF084D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDDB37D-C8F8-44C9-89F4-ABE37CF084D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDDB37D-C8F8-44C9-89F4-ABE37CF084D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDDB37D-C8F8-44C9-89F4-ABE37CF084D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDDB37D-C8F8-44C9-89F4-ABE37CF084D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B712C7F3-F4C3-44F8-982B-26ED575C2E2A}
+	EndGlobalSection
+EndGlobal
